@@ -1,5 +1,3 @@
-# Demo 2 
+# Shin Leonhardt 's Study repo
 
-Random text
-
-
+Feature seen only
